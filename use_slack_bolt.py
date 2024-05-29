@@ -54,6 +54,6 @@ def regex(event, client, message, say):
         say(str(event['text']))
 # ## -- 앵무새 말 따라하기 끝 -- ##
 
-# APP-Level Tokens
+# Wordk Space APP-Level Tokens
 if __name__ == '__main__':
     SocketModeHandler(app, '').start()
