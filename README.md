@@ -1,4 +1,4 @@
-### Bot_Slack_Bolt
+### Bot_Slack
 
 ### 슬랙봇 알림
 
